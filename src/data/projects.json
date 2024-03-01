@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Contact Manager",
+    "imageSrc": "projects/netflix.png",
+    "description": "This is a project made to learn CRUD Operations in React.",
+    "skills": ["React", "Local Storage", "SCSS", "Node"],
+    "demo": "https://contact-manager-djwhocodes.netlify.app/",
+    "source": "https://github.com/DJwhoCodes-One/Contact-Manager"
+  },
+    {
+      "title": "Whatsapp",
+      "imageSrc": "projects/whatsapp.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Spotify",
+      "imageSrc": "projects/spotify.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
