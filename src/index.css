@@ -21,10 +21,10 @@ html{
 
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  background: rgb(255, 81, 0); /* Color of the scrollbar handle */
+  background: rgb(134, 245, 122); /* Color of the scrollbar handle */
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #ef9f0b; /* Color of the scrollbar handle on hover */
+  background: #05ae0e; /* Color of the scrollbar handle on hover */
 }
