@@ -1,26 +1,26 @@
 [
   {
-    "title": "Contact Manager",
+    "title": "Contact Manager & Ai ",
     "imageSrc": "projects/netflix.png",
-    "description": "This is a project made to learn CRUD Operations in React.",
+    "description": "This is a project made to learn CRUD Operations in React and to handle API requests and responses.",
     "skills": ["React", "Local Storage", "SCSS", "Node"],
-    "demo": "https://contact-manager-djwhocodes.netlify.app/",
+    "demo": "https://contact-manager-with-ai-asistant.vercel.app/",
     "source": "https://github.com/DJwhoCodes-One/Contact-Manager"
   },
     {
-      "title": "Whatsapp",
-      "imageSrc": "projects/whatsapp.jpg",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Moovie Doobie",
+      "imageSrc": "projects/spotify.png",
+      "description": "This is a project to fetch data from RESTful API, to present data with performance optimized page reloads.",
+      "skills": ["React", "Redux", "Node"],
+      "demo": "https://moovie-doobie.vercel.app/",
+      "source": "https://github.com/DJwhoCodes-One/Moovie-Doobie"
     },
     {
-      "title": "Spotify",
-      "imageSrc": "projects/spotify.jpg",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "House Price Prediction",
+      "imageSrc": "projects/whatsapp.png",
+      "description": "This is a project to predict house prices using ML algorithms, on the basis of selected attributes.",
+      "skills": ["Python", "Flask", "Jupyter Notebook"],
+      "demo": "https://d-jwho-codes.vercel.app/",
+      "source": "https://github.com/DJwhoCodes-One/House-Price-Prediction"
     }
   ]

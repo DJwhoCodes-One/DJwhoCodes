@@ -4,7 +4,7 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  background-color: rgba(20, 20, 21, 0.463);
+  background-color: rgba(9, 11, 9, 0.9);
   padding: 18px 24px;
   max-width: 345px;
 }

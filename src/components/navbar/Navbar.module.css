@@ -1,7 +1,7 @@
 @import "../../vars.css";
 
 .navContainer{
-  background: linear-gradient(to right, rgb(0, 216, 0), rgb(91, 253, 91), rgb(0, 216, 0));
+  background: linear-gradient(to right, rgb(5, 138, 38), rgb(111, 232, 137), rgb(5, 138, 38));
   position: relative;
   z-index: 5;
 }
